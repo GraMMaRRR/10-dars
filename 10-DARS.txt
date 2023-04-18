@@ -1,0 +1,19 @@
+// 1-MISOL
+
+// function Power(a,b,c,d,e){
+//     console.log(a**3);
+//     console.log(b**3);
+//     console.log(c**3);
+//     console.log(d**3);
+//     console.log(e**3);
+// }
+// Power(1,2,3,4,5);
+
+2-MISOL
+
+function Power(a,b,c){
+    console.log(a**2);
+    console.log(b**3);
+    console.log(c**4);
+}
+Power(2,3,4);
